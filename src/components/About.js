@@ -32,7 +32,7 @@ const About = () => {
             find, that perfect dream holiday for you and your loved ones.
           </p>
 
-          <a href="#" className="btn">
+          <a href="www.google.com" className="btn">
             read more
           </a>
         </article>
